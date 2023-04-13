@@ -1,6 +1,6 @@
 # SilverEye-Reddit-Scrapping
 
-A tool created to scrape twitter using its own API
+A tool created to scrape reddit's using its own API
 
 URL Reddit API: https://www.reddit.com/dev/api/
 
